@@ -4,4 +4,4 @@
 Currently, we are in an intense development process.
 
 -----
-Access our [discord](#) to learn more about it.
+Access our [discord](https://discord.gg/YyKf4r8G43) to learn more about it.
